@@ -8,11 +8,6 @@ keepAlive();
 const tokens = [
   process.env.TOKEN_1,
   process.env.TOKEN_2,
-  process.env.TOKEN_3,
-  process.env.TOKEN_4,
-  process.env.TOKEN_5,
-  process.env.TOKEN_6,
-  process.env.TOKEN_7,
   // Add more tokens as needed
 ];
 
