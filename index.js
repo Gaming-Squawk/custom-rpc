@@ -6,7 +6,7 @@ keepAlive();
 
 // Array of tokens for multiple accounts
 const tokens = [
-  process.env.TOKEN_1,
+  process.env.TOKEN,
   // Add more tokens as needed
 ];
 
