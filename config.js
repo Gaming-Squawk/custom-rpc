@@ -13,7 +13,7 @@ function reloadPresence(client, index) {
         .setDetails("HYDROX MUSIC")
         .setState("ENJOY MUSIC EFFORTLESSLY")
         .setStartTimestamp(global.startTime)
-        .setAssetsLargeImage("https://tenor.com/dblxUyEsM73.gif")
+        .setAssetsLargeImage("1000148622")
         .setAssetsLargeText(" Listening to 110")
         .addButton('ADD TO SERVER', "https://discord.com/oauth2/authorize?client_id=1112673469210034256&permissions=36842105936&integration_type=0&scope=bot+applications.commands")
         .addButton('WEBSITE', "https://hydrox-music.rf.gd/");
