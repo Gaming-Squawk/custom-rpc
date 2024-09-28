@@ -14,7 +14,7 @@ function reloadPresence(client, index) {
         .setState("ENJOY MUSIC EFFORTLESSLY")
         .setStartTimestamp(global.startTime)
         .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1136290202118279270/1287750793084276776/VID-20240612-WA0013.gif?ex=66f89da2&is=66f74c22&hm=c752705ca9953f38b1f9ea474cca3c0f24697f941a8fe074735784311e97b399&")
-        .setAssetsLargeText(" Listening to 130 servers")
+        .setAssetsLargeText(" Listening to 131 servers")
         .addButton('ADD TO SERVER', "https://discord.com/oauth2/authorize?client_id=1112673469210034256&permissions=36842105936&integration_type=0&scope=bot+applications.commands")
         .addButton('WEBSITE', "https://hydrox-music.rf.gd/");
 
