@@ -16,7 +16,7 @@ function reloadPresence(client, index) {
         .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1136290202118279270/1336937152310808617/Messenger_creation_505325565457880.jpg?ex=67a59f40&is=67a44dc0&hm=c80b2b42e55907f138e8c52376780827d96338c202cb6d70be2188535908877d&")
         .setAssetsLargeText("WATCHING TO 2 BOTS")
         .addButton('Instagram', "https://www.instagram.com/hydrox.in?igsh=MXgwM3BzZTdkMDg4cA==")
-        .addButton('DISCORD', "dsc.gg/hydrox-community");
+        .addButton('DISCORD', "https://discord.gg/hnRzctST");
 
     client.user.setPresence({
         status: "online",
