@@ -15,8 +15,8 @@ function reloadPresence(client, index) {
         .setStartTimestamp(global.startTime)
         .setAssetsLargeImage("https://cdn.discordapp.com/attachments/1136290202118279270/1336937152310808617/Messenger_creation_505325565457880.jpg?ex=67a59f40&is=67a44dc0&hm=c80b2b42e55907f138e8c52376780827d96338c202cb6d70be2188535908877d&")
         .setAssetsLargeText("WATCHING TO 2 BOTS")
-        .addButton('https://cdn.discordapp.com/attachments/1136290202118279270/1336937713365942282/instagram.png?ex=67a59fc5&is=67a44e45&hm=e6bbbe0f9edc261fb904ec05d508dd1458d31e96a38d2631802839d1aac404b5& Instagram', "https://discord.com/oauth2/authorize?client_id=1112673469210034256&permissions=36842105936&integration_type=0&scope=bot+applications.commands")
-        .addButton('WEBSITE', "https://hydrox-music.rf.gd/");
+        .addButton('Instagram', "https://www.instagram.com/hydrox.in?igsh=MXgwM3BzZTdkMDg4cA==")
+        .addButton('DISCORD', "dsc.gg/hydrox-community");
 
     client.user.setPresence({
         status: "online",
