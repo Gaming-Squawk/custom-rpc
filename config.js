@@ -8,7 +8,7 @@ function reloadPresence(client, index) {
 
     const activity = new discord.RichPresence()
         .setApplicationId("1256607227444330606") // Replace with your own bot application id
-        .setType("Watching")
+        .setType("WATCHING")
         .setName("HYDROX.IN")
         .setDetails("HYDROX.IN")
         .setState("Hydrox.in — Innovation Starts Here.")
